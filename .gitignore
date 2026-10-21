@@ -1,0 +1,10 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+data/raw/*
+data/processed/*
+.r-library/
+outputs/logs/

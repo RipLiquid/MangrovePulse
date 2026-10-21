@@ -1,0 +1,5 @@
+Indonesia's estimated mangrove extent shows a 3.29% net decrease between 2000 and 2025.
+The 2015-2025 compound annual rate is +0.151%. This recent rate need not persist.
+
+Scope: country-level descriptive analysis and deterministic sensitivity scenarios.
+No site prioritization or field validation has been completed.
